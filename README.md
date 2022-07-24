@@ -7,7 +7,7 @@ Use this for load testing other applications.
 
 ### Components 
 
-`ping.sh` is a simple script that sends HTTP requests to a specified every second.
+`ping.sh` is a simple script that sends HTTP requests to a specified URL every second.
 ```shell
 # Executing the script by itself
 URL=https://jsonplaceholder.typicode.com/posts  ./ping.sh
